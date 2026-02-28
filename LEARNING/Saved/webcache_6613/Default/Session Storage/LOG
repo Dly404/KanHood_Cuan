@@ -1,2 +1,8 @@
-2026/02/28-23:25:00.133 7b5c Creating DB E:\KanHood_Cuan_project\KanHood_Cuan\LEARNING\Saved\webcache_6613\Default\Session Storage since it was missing.
-2026/02/28-23:25:00.144 7b5c Reusing MANIFEST E:\KanHood_Cuan_project\KanHood_Cuan\LEARNING\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
+<<<<<<< HEAD
+2026/02/28-23:37:12.008 c64 Creating DB C:\CUAN\KanHood_Cuan\LEARNING\Saved\webcache_6613\Default\Session Storage since it was missing.
+2026/02/28-23:37:12.025 c64 Reusing MANIFEST C:\CUAN\KanHood_Cuan\LEARNING\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
+=======
+2026/02/28-23:38:04.020 1c4c Reusing MANIFEST E:\KanHood_Cuan_project\KanHood_Cuan\LEARNING\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
+2026/02/28-23:38:04.021 1c4c Recovering log #3
+2026/02/28-23:38:04.021 1c4c Reusing old log E:\KanHood_Cuan_project\KanHood_Cuan\LEARNING\Saved\webcache_6613\Default\Session Storage/000003.log 
+>>>>>>> 9d41733382dc57066ef712e4d2657acdfd994cde
