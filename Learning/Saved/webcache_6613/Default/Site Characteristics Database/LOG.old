@@ -1,5 +1,1 @@
-2026/02/28-23:55:09.413 19c8 Log #3: 2 ops saved to Table #4 OK
-2026/02/28-23:55:09.417 19c8 Archiving C:\CUAN\KanHood_Cuan\Learning\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/02/28-23:55:09.417 19c8 Table #4: 2 entries OK
-2026/02/28-23:55:09.420 19c8 Archiving C:\CUAN\KanHood_Cuan\Learning\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/02/28-23:55:09.428 19c8 **** Repaired leveldb C:\CUAN\KanHood_Cuan\Learning\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 179 bytes. Some data may have been lost. ****
+2026/02/28-23:55:09.432 19c8 Reusing MANIFEST C:\CUAN\KanHood_Cuan\Learning\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
