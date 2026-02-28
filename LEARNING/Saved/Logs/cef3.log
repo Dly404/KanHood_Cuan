@@ -1,21 +1,0 @@
-<<<<<<< HEAD
-[21880:23344:0228/233708.419:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[21880:23344:0228/233708.434:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[21880:4604:0228/233708.461:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[21880:23344:0228/233708.470:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[21880:24492:0228/233711.026:WARNING:leveldb_database.cc(141)] Unable to open C:\CUAN\KanHood_Cuan\LEARNING\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\CUAN\KanHood_Cuan\LEARNING\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21880:23344:0228/233711.026:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[21880:24492:0228/233711.031:WARNING:leveldb_database.cc(141)] Unable to open C:\CUAN\KanHood_Cuan\LEARNING\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\CUAN\KanHood_Cuan\LEARNING\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21880:24492:0228/233711.034:WARNING:leveldb_database.cc(141)] Unable to open C:\CUAN\KanHood_Cuan\LEARNING\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\CUAN\KanHood_Cuan\LEARNING\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21880:24492:0228/233711.036:WARNING:leveldb_database.cc(141)] Unable to open C:\CUAN\KanHood_Cuan\LEARNING\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\CUAN\KanHood_Cuan\LEARNING\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21880:4604:0228/233711.689:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21880:4604:0228/233711.698:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[10756:17936:0228/233712.009:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-159B9A9B4967BE4393A0BAF86C10388B will be ignored
-[21880:12280:0228/233715.242:WARNING:leveldb_database.cc(141)] Unable to open C:\CUAN\KanHood_Cuan\LEARNING\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\CUAN\KanHood_Cuan\LEARNING\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21880:23344:0228/234028.617:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
-=======
-[2236:24764:0228/233801.678:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[2236:24764:0228/233801.711:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[1264:17396:0228/233804.033:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1671503220C4D2E88DA63A80DB242FCF will be ignored
-[2236:24764:0228/234020.210:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
->>>>>>> 9d41733382dc57066ef712e4d2657acdfd994cde
